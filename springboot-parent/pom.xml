@@ -16,7 +16,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <properties>
-        <springboot.vesion>2.2.1.RELEASE</springboot.vesion>
+        <springboot.vesion>2.5.12</springboot.vesion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <druid.version>1.1.10</druid.version>
